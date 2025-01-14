@@ -1,0 +1,11 @@
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Entities\bin\Debug\net7.0\TicketBooking.Entities.deps.json
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Entities\bin\Debug\net7.0\TicketBooking.Entities.dll
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Entities\bin\Debug\net7.0\TicketBooking.Entities.pdb
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Entities\obj\Debug\net7.0\TicketBooking.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Entities\obj\Debug\net7.0\TicketBooking.Entities.AssemblyInfoInputs.cache
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Entities\obj\Debug\net7.0\TicketBooking.Entities.AssemblyInfo.cs
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Entities\obj\Debug\net7.0\TicketBooking.Entities.csproj.CoreCompileInputs.cache
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Entities\obj\Debug\net7.0\TicketBooking.Entities.dll
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Entities\obj\Debug\net7.0\refint\TicketBooking.Entities.dll
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Entities\obj\Debug\net7.0\TicketBooking.Entities.pdb
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Entities\obj\Debug\net7.0\ref\TicketBooking.Entities.dll

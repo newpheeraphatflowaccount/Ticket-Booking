@@ -1,0 +1,15 @@
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\bin\Debug\net7.0\TicketBooking.Repositories.deps.json
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\bin\Debug\net7.0\TicketBooking.Repositories.dll
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\bin\Debug\net7.0\TicketBooking.Repositories.pdb
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\obj\Debug\net7.0\TicketBooking.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\obj\Debug\net7.0\TicketBooking.Repositories.AssemblyInfoInputs.cache
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\obj\Debug\net7.0\TicketBooking.Repositories.AssemblyInfo.cs
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\obj\Debug\net7.0\TicketBooking.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\obj\Debug\net7.0\TicketBooking.Repositories.dll
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\obj\Debug\net7.0\refint\TicketBooking.Repositories.dll
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\obj\Debug\net7.0\TicketBooking.Repositories.pdb
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\obj\Debug\net7.0\ref\TicketBooking.Repositories.dll
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\bin\Debug\net7.0\TicketBooking.Entities.dll
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\bin\Debug\net7.0\TicketBooking.Entities.pdb
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\obj\Debug\net7.0\TicketBooking.Repositories.csproj.AssemblyReference.cache
+C:\Users\New Pheeraphat\Documents\Github\e-ticket-booking\TicketBooking\TicketBooking.Repositories\obj\Debug\net7.0\TicketBo.0EF6AE9D.Up2Date
